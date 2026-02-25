@@ -1,0 +1,22 @@
+# Initiate Mobile App Prompt
+You are helping me build a production-quality food discovery web app.
+
+Follow these rules:
+
+• Build iteratively in small steps
+• Do not generate the entire app at once
+• Always prioritise clean architecture and reusable components
+• Use mobile-first responsive design
+• Optimise for performance and low friction UX
+• After each step, ask what to build next
+
+Start by:
+
+1. Creating project structure
+2. Building layout and navigation
+3. Implementing recipe list page
+4. Implementing recipe detail page
+5. Adding favourites
+6. Adding shopping list
+
+Pause after each step.
